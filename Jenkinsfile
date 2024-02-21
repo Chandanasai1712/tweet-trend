@@ -1,5 +1,4 @@
- pipeline{
-[A[C[C[C[C[C[C[Cpipeline{
+pipeline {
     agent {
         node {
             label 'maven'
@@ -16,3 +15,4 @@
         }
     }
 }
+
